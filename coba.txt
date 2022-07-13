@@ -1,2 +1,2 @@
 Membuat file di repository d Github.
-Belajar mengedit file
+Coba mengedit fle kemudian mengirim (push) commit ke remote
